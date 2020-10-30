@@ -1,1 +1,3 @@
-# Ostl-travel-project
+Calculator
+Flames game
+Jumbbled words game
